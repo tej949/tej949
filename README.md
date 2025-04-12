@@ -1,16 +1,28 @@
-## Hi there 👋
+ ## Hey there, I'm Tej! 👋
 
-<!--
-**tej949/tej949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer exploring the worlds of **AI**, **Java**, and **Cybersecurity**.  
+I love building projects that solve real problems and learning something new every damn day.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- **SoulVault** – A digital memory capsule built with Java & JavaFX
+- **Recalm** - A mental health chatbot with mood-specific tools (breathing exercises, gratitude journal, grounding techniques) and emotional tracking. Built with React frontend and Flask backend to provide interactive therapeutic experiences
+- Exploring AI tools like Gemini, Teachable Machine, and Hugging Face
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- *Languages:* Java, Python, C
+- *AI/ML:* Gemini, Hugging Face, Teachable Machine
+- *Cybersecurity Tools:* Kali Linux, Burp Suite, Xampp
+- *Web Dev:* HTML, CSS, JavaScript
+- *Tools:* Git, Docker, Vscode
+
+## 📌 Featured Projects
+- [The Gift Whisperer](https://github.com/tej949/the-gift-whisperer-ai) – Gemini-powered gift suggestion app  
+- [Tone Savvy Scribe](https://github.com/tej949/tone-savvy-scribe) – Email rewriter with mood tone control  
+- [CultureBridge](https://github.com/tej949/culture-tone-transform) – Cross-cultural AI email transformer
+
+## 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/vallem-tejomai-94148a301
+- Email: vtejomaireddy2005@gmail.com
+
+Thanks for stopping by!  
+Let’s keep learning, building, and breaking limits.
