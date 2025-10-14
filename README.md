@@ -19,6 +19,7 @@ I love building projects that solve real problems and learning something new eve
 - [The Gift Whisperer](https://github.com/tej949/the-gift-whisperer-ai) – Gemini-powered gift suggestion app  
 - [Tone Savvy Scribe](https://github.com/tej949/tone-savvy-scribe) – Email rewriter with mood tone control  
 - [CultureBridge](https://github.com/tej949/culture-tone-transform) – Cross-cultural AI email transformer
+- [secure grade portal](https://preview--secure-grade-portal.lovable.app/) -Student Information System with Advanced Security 
 
 ## 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/vallem-tejomai-94148a301
