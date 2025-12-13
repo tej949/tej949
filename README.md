@@ -39,10 +39,9 @@ Ethereum-based system for sending ETH and storing auditable on-chain metadata.
 **Focus:** Smart contracts, backend abstraction, system integration  
 🔗 https://github.com/tej949/blockchain-based-application-for-sending-and-storing-Ethereum
 
-** ⛓ timeless-memory-keeper **
-
-
-**Focus:** javafx,java
+### ⏳ timeless-memory-keeper  
+Encrypted digital time capsules that unlock in the future.  
+**Focus:** Java, JavaFX  
 🔗 https://preview--timeless-memory-keeper.lovable.app/
 ---
 
