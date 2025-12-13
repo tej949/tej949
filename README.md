@@ -1,29 +1,55 @@
- ## Hey there, I'm Tej! 👋
+Hey, I’m Tej 👋  
 
-I'm a passionate developer exploring the worlds of **AI**, **Java**, and **Cybersecurity**.  
-I love building projects that solve real problems and learning something new every damn day.
+CSE undergraduate at **Dayananda Sagar Academy of Technology and Management (DSATM), Bangalore**.  
+Focused on **backend development, application security, and DSA** for product-based software engineering roles.
 
-## 🚀 What I'm Working On
-- **Recalm** - A mental health chatbot with mood-specific tools (breathing exercises, gratitude journal, grounding techniques) and emotional tracking. Built with React frontend and Flask backend to provide interactive therapeutic experiences
-- Exploring AI tools like Gemini, Teachable Machine, and Hugging Face
+I build **security-first, API-driven systems** and actively strengthen **Data Structures & Algorithms** for interviews.
 
-## 🛠 Tech Stack
-- *Languages:* Java, Python, C
-- *AI/ML:* Gemini, Hugging Face, Teachable Machine
-- *Cybersecurity Tools:* Kali Linux, Burp Suite, Xampp
-- *Web Dev:* HTML, CSS, JavaScript
-- *Tools:* Git, Docker, Vscode
+---
 
-## 📌 Featured Projects
-- [The Gift Whisperer](https://github.com/tej949/the-gift-whisperer-ai) – Gemini-powered gift suggestion app  
-- [Tone Savvy Scribe](https://github.com/tej949/tone-savvy-scribe) – Email rewriter with mood tone control  
-- [CultureBridge](https://github.com/tej949/culture-tone-transform) – Cross-cultural AI email transformer
-- [secure grade portal](https://preview--secure-grade-portal.lovable.app/) -Student Information System with Advanced Security
-- [timeless-memory-keeper](https://preview--timeless-memory-keeper.lovable.app/) - A digital memory capsule built with Java & JavaFX
+## 🔧 Current Focus
+- Backend development & API design  
+- Application security & auditability  
+- Data Structures & Algorithms (DSA)  
+- System design fundamentals (LLD)
 
-## 📫 Let's Connect
-- LinkedIn: www.linkedin.com/in/vallem-tejomai-94148a301
-- Email: vtejomaireddy2005@gmail.com
+---
 
-Thanks for stopping by!  
-Let’s keep learning, building, and breaking limits.
+## 🛠 Core Skills
+**Java · Python · TypeScript · REST APIs · Backend Development**  
+**DSA · DBMS · Operating Systems · Computer Networks · System Design (Basics)**  
+**Application Security · Cryptography (Fundamentals) · Audit Logging**
+
+---
+
+## 📌 Key Projects
+
+### 🔐 secret-leak-detection  
+Security-focused backend system to detect leaked credentials in GitHub repositories.  
+**Focus:** API design, validation, alerting, application security  
+🔗 https://secret-leak-detection.vercel.app/
+
+### 🛡 MaskerLogger  
+Secure student information system with real-time data masking and vulnerability scanning.  
+**Focus:** Security engineering, audit logs, correctness  
+🔗 https://preview--secure-grade-portal.lovable.app/
+
+### ⛓ Krypt  
+Ethereum-based system for sending ETH and storing auditable on-chain metadata.  
+**Focus:** Smart contracts, backend abstraction, system integration  
+🔗 https://github.com/tej949/blockchain-based-application-for-sending-and-storing-Ethereum
+
+### ⛓ timeless-memory-keeper 
+Create encrypted digital time capsules that open in the future. Perfect for messages to your future self, loved ones, or preserving special memories.
+**Focus:** javafx,java
+🔗 https://preview--timeless-memory-keeper.lovable.app/
+---
+
+## 🎯 Target
+**Backend / Software Engineer (SDE) roles**  
+Product-based companies valuing **DSA, system design, and clean engineering**
+
+---
+
+📫 **LinkedIn:** https://www.linkedin.com/in/vallem-tejomai-94148a301  
+📧 **Email:** vtejomaireddy2005@gmail.com
