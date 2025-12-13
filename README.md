@@ -42,6 +42,7 @@ Ethereum-based system for sending ETH and storing auditable on-chain metadata.
 ### ⛓ timeless-memory-keeper
 Encrypted digital time capsules that unlock in the future 
 **Focus:** Java, JavaFX
+
 🔗 https://preview--timeless-memory-keeper.lovable.app/
 
 ---
