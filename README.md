@@ -9,10 +9,13 @@ What excites me most is the full loop:
 ingest → chunk → embed → retrieve → generate
 
 Beyond RAG, I've built:
+
 → An autonomous AI agent using Google Gemini 2.0 Flash with custom prompt engineering, 
   Selenium-based automation, and production-grade safety filters
+
 → An Explainable IDS combining Random Forest/XGBoost with a RAG pipeline for 
   natural-language threat explanations
+
 → A full-stack AI chat app (React + Gemini API) shipped solo and deployed on Vercel
 
 My background in cybersecurity gives me an edge — I think about LLM systems with a security 
