@@ -1,4 +1,4 @@
-I'm a final-year Cybersecurity student who got deep into Generative AI — and never looked back.
+I'm a Pre final-year Cybersecurity student who got deep into Generative AI — and never looked back.
 
 My current obsession is RAG (Retrieval-Augmented Generation) — building systems that let LLMs 
 reason over real documents instead of hallucinating. I've built a full RAG pipeline from scratch: 
